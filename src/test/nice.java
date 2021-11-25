@@ -1,0 +1,10 @@
+package test;
+
+public class nice {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("가즈아아악");
+	}
+
+}
